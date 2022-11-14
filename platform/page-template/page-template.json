@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "pos": 0,
+      "descr": "Bootstrap example",
+      "mainFrame": false,
+      "defaultWidget": null,
+      "sketch": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 11,
+        "y2": 1
+      }
+    }
+  ]
+}
